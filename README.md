@@ -9,7 +9,7 @@ Question 2: Is there a correlation between the scale of life and the general pub
 Question 3: Does increasing the scale of life have an effect on average happiness among the general public? What is the correlation between the two variables?
 Question 4: Does the country with the lowest social support index have the highest perception of corruption in relation to companies and the country's government?
 
-Keywords: R Language, Data Analysis, Statistics, dplyr, ggplot2, data munging, data exploration, analysis socioeconomic, data driven culture, business problems.
+Keywords: R Language, Data Analysis, Statistics, dplyr, ggplot2, Data Munging, Data Exploration, Analysis Socioeconomic, Data Driven Culture, Business Problems.
 
 # ✅ PROCESS
 
